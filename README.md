@@ -70,10 +70,10 @@ Display original color image, histogram, enhanced image, and enhanced histogram 
 ## Program
 
 ### Developed By:
-**Name:** ____________________________  
+### Name: JAGADEESH.A 
 
-### Register No:
-____________________________  
+### Register No: 212224230098
+ 
 
 ---
 
